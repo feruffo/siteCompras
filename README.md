@@ -1,2 +1,2 @@
 # siteCompras
-Site de compras feito em React para estudo.
+Site de compras desenvolvido para estudo da arquitetura Flux utilizando Redux do React.
